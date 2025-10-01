@@ -53,7 +53,6 @@ return (new PhpCsFixer\Config())
         'ordered_imports' => ['sort_algorithm' => 'alpha'],
         'return_type_declaration' => ['space_before' => 'none'],
         'short_scalar_cast' => true,
-        'single_blank_line_before_namespace' => true,
         'single_quote' => true,
         'ternary_operator_spaces' => true,
         'trailing_comma_in_multiline' => ['elements' => ['arrays']],
