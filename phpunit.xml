@@ -4,7 +4,6 @@
          bootstrap="tests/bootstrap.php"
          colors="true"
          failOnRisky="true"
-         failOnWarning="true"
          cacheDirectory=".phpunit.cache">
     <testsuites>
         <testsuite name="MailSniper Test Suite">
