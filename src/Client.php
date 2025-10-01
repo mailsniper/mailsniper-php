@@ -250,7 +250,7 @@ class Client
         $normalized = [];
 
         foreach ($headers as $name => $values) {
-            $normalized[strtolower($name)] = is_array($values) ? $values[0] : $values;
+            $normalized[strtolower($name)] = $values[0];
         }
 
         return $normalized;
