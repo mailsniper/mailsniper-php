@@ -333,7 +333,7 @@ MailSniper uses a **fixed quota system** rather than time-based rate limiting:
 
 ## Support
 
-- **Documentation**: https://docs.mailsniperapp.com?utm_source=github&utm_medium=readme
+- **Documentation**: [https://mailsniperapp.com/docs](https://mailsniperapp.com/docs?utm_source=github&utm_medium=readme)
 - **Email**: hello@mailsniperapp.com
 - **Issues**: https://github.com/mailsniper/mailsniper-php/issues
 
